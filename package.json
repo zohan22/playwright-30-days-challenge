@@ -1,0 +1,12 @@
+{
+  "name": "playwright-30-days-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zohan22/playwright-30-days-challenge.git",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.2"
+  },
+  "scripts": {}
+}
